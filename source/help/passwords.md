@@ -21,7 +21,7 @@ Paper passwords:
 ----------------
 
 arXiv maintains [authority records](authority) for the works within our corpus.
-These are the list of author accounts who are authorized to make changes (referred to as the **owner**).
+These are the list of author accounts authorized to make changes (referred to as the **owner**).
 When an article is first submitted to arXiv, the submitter is the only owner of that work. 
 They receive the **paper password** as part of the announcement e-mail when the final 
 arXiv-id is assigned. See [authority records](authority) for more information regarding 
