@@ -1,7 +1,3 @@
----
-title: arXiv API Access
----
-
 # arXiv API Access
 
 arXiv offers public API access in order to maximize its openness and interoperability. Many projects utilize this option without becoming official [arXivLabs collaborations](https://labs.arxiv.org).
